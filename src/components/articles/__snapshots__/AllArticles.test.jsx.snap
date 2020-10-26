@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllArticles component render AllArticles component 1`] = `
+<DocumentFragment>
+  <ul
+    data-testid="articles"
+  >
+    <li>
+      <h3>
+        This Title
+      </h3>
+      <p>
+        By: Lil Wayne
+      </p>
+      <p>
+        Summary: What a fabulous article.
+      </p>
+    </li>
+    <li>
+      <h3>
+        That Title
+      </h3>
+      <p>
+        By: Margaret Atwood
+      </p>
+      <p>
+        Summary: Stupendous article.
+      </p>
+    </li>
+    <li>
+      <h3>
+        Those Titles
+      </h3>
+      <p>
+        By: Norman Mailer
+      </p>
+      <p>
+        Summary: Eh.
+      </p>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
